@@ -1,0 +1,8 @@
+ion-toolbar {
+  --background: var(--ion-color-dark);
+  --color: var(--ion-color-primary-contrast);
+}
+
+ion-select {
+  --icon: var(--ion-color-pdark);
+}
